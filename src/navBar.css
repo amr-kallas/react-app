@@ -1,0 +1,20 @@
+.container{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 15px;
+    background-color: #03a9f4;
+    color: white;
+}
+.container a{
+    color: white;
+}
+.container .logo{
+    font-size: 22px;
+}
+.container .nav{
+    font-size: 18px;
+}
+.container .nav a{
+    margin-left: 10px;
+}

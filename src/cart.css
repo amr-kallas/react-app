@@ -1,0 +1,40 @@
+h2{
+    margin: 10px;
+}
+.clear{
+    padding: 3px 6px;
+    background: #2196f3;
+    color: white;
+    font-size: 14px;
+    border: none;
+    border-radius: 4px;
+    cursor: pointer;
+    margin-left: 10px;
+}
+table{
+    width: 100%;
+    text-align: center;
+    margin-top: 25px;
+}
+table thead{
+    background: #8bc34a;
+}
+table tbody{
+
+}
+table tr th{
+    padding: 5px;
+}
+table td img{
+    width: 100px;
+    height: 100px;
+}
+table .delete{
+    padding: 3px 6px;
+    background: red;
+    color: white;
+    font-size: 14px;
+    border: none;
+    border-radius: 4px;
+    cursor: pointer;
+}
